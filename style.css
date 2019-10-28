@@ -1,0 +1,284 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+body{
+	background:#000;
+}
+div{
+	background:#490000;
+	width:2px;
+	height: 25px;
+}h1{
+	position: absolute;
+	left:52%;
+	top:25%;
+	transform:translate(-52%,-25%);
+	color:#490000;
+	font-family: 'Courgette', cursive;
+}
+
+/*--------------------------------------------------------------------------------------*/
+div:nth-child(1){
+	position: absolute;
+	left:50%;
+	top:50%;
+	transform:rotate(90deg);
+}
+div:nth-child(2){
+	position: absolute;
+	left:48.5%;
+	top:48%;
+}
+div:nth-child(3){
+	position: absolute;
+	left:50%;
+	top:45.7%;
+	transform:rotate(90deg);
+}
+div:nth-child(4){
+	position: absolute;
+	left:51.5%;
+	top:48%;
+}
+div:nth-child(5){
+	position: absolute;
+	left:48.5%;
+	top:52.5%;
+}
+div:nth-child(6){
+	position: absolute;
+	left:51.5%;
+	top:52.5%;
+}
+div:nth-child(7){
+	position: absolute;
+	left:50%;
+	top:54.5%;
+	transform:rotate(90deg);
+}
+/*-------------------------------------------------------------------------------------------*/
+div:nth-child(8){
+	position: absolute;
+	left:54%;
+	top:50%;
+	transform: rotate(90deg);
+}
+div:nth-child(9){
+	position: absolute;
+	left:52.5%;
+	top:48%;
+}
+div:nth-child(10){
+	position: absolute;
+	left:55.5%;
+	top:48%;
+}
+div:nth-child(11){
+	position: absolute;
+	left:54%;
+	top:45.7%;
+	transform:rotate(90deg);
+}
+div:nth-child(12){
+	position: absolute;
+	left:52.5%;
+	top:52.5%;
+}
+div:nth-child(13){
+	position: absolute;
+	left:55.5%;
+	top:52.5%;
+}
+div:nth-child(14){
+	position: absolute;
+	left:54%;
+	top:54.5%;
+	transform:rotate(90deg);
+}
+/*-----------------------------------------------------------------------------------------*/
+div:nth-child(15){
+	position: absolute;
+	left:61%;
+	top:50%;
+	transform:rotate(90deg);
+}
+div:nth-child(16){
+	position: absolute;
+	left:59.5%;
+	top:48%;
+}
+div:nth-child(17){
+	position: absolute;
+	left:62.5%;
+	top:48%;
+}
+div:nth-child(18){
+	position: absolute;
+	left:61%;
+	top:45.7%;
+	transform:rotate(90deg);
+}
+div:nth-child(19){
+	position: absolute;
+	left:59.5%;
+	top:52.5%;
+}
+div:nth-child(20){
+	position: absolute;
+	left:62.5%;
+	top:52.5%;
+}
+div:nth-child(21){
+	position: absolute;
+	left:61%;
+	top:54.5%;
+	transform:rotate(90deg);
+}
+/*------------------------------------------------------------------------------*/
+div:nth-child(22){
+	position: absolute;
+	left:65%;
+	top:50%;
+	transform:rotate(90deg);
+}
+div:nth-child(23){
+	position: absolute;
+	left:63.5%;
+	top:48%;
+}
+div:nth-child(24){
+	position: absolute;
+	left:66.5%;
+	top:48%;
+}
+div:nth-child(25){
+	position: absolute;
+	left:65%;
+	top:45.7%;
+	transform: rotate(90deg);
+}
+div:nth-child(26){
+	position: absolute;
+	left:63.5%;
+	top:52.5%;
+}
+div:nth-child(27){
+	position: absolute;
+	left:66.5%;
+	top:52.5%;
+}
+div:nth-child(28){
+	position: absolute;
+	left:65%;
+	top:54.5%;
+	transform:rotate(90deg);
+}
+/*------------------------------------------------------------------------*/
+div:nth-child(29){
+	position: absolute;
+	left:43%;
+	top:50%;
+	transform:rotate(90deg);
+}
+div:nth-child(30){
+	position: absolute;
+	left:41.5%;
+	top:48%;
+}
+div:nth-child(31){
+	position: absolute;
+	left:44.5%;
+	top:48%;
+}
+div:nth-child(32){
+	position: absolute;
+	left:43%;
+	top:45.7%;
+	transform: rotate(90deg);
+}
+div:nth-child(33){
+	position: absolute;
+	left:41.5%;
+	top:52.5%;
+}
+div:nth-child(34){
+	position: absolute;
+	left:44.5%;
+	top:52.5%;
+}
+div:nth-child(35){
+	position: absolute;
+	left:43%;
+	top:54.5%;
+	transform:rotate(90deg);
+}
+/*-------------------------------------------------------------------*/
+div:nth-child(36){
+	position: absolute;
+	left:39%;
+	top:50%;
+	transform: rotate(90deg);
+}
+div:nth-child(37){
+	position: absolute;
+	left:37.5%;
+	top:48%;
+}
+div:nth-child(38){
+	position: absolute;
+	left:40.5%;
+	top:48%;
+}
+div:nth-child(39){
+	position: absolute;
+	left:39%;
+	top:45.7%;
+	transform: rotate(90deg);
+}
+div:nth-child(40){
+	position: absolute;
+	left:37.5%;
+	top:52.5%;
+}
+div:nth-child(41){
+	position: absolute;
+	left:40.5%;
+	top:52.5%;
+}
+div:nth-child(42){
+	position: absolute;
+	left:39%;
+	top:54.5%;
+	transform: rotate(90deg);
+}
+/*---------------------------------------------------------------------------------*/
+div:nth-child(43){
+	position: absolute;
+	left:57.2%;
+	top:49.5%;
+	border-radius:50%;
+	height: 8px;
+	width: 8px;
+}
+div:nth-child(44){
+	position: absolute;
+	left:57.2%;
+	top:53.5%;
+	border-radius:50%;
+	height: 8px;
+	width: 8px;
+}
+div:nth-child(45){
+	position: absolute;
+	left:46.3%;
+	top:49.5%;
+	border-radius:50%;
+	height: 8px;
+	width: 8px;
+}
+div:nth-child(46){
+	position: absolute;
+	left:46.3%;
+	top:53.5%;
+	border-radius:50%;
+	height: 8px;
+	width: 8px;
+}
